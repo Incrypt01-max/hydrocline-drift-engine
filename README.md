@@ -13,7 +13,7 @@ Given a release point, ocean current, wind and a time horizon, it releases thous
 | A. Oil release off the Niger Delta, 72 h | 60% of particles reach shore, first arrival at 31 h, all landings on the mangrove coast, about 40 km of shoreline exposed |
 | B. Person in the water off Lagos, 24 h | 95% search area of 2,024 km2 versus 11,230 km2 for a naive circle (82% smaller); 176 km2 vs 702 km2 at 6 h; 604 km2 vs 2,808 km2 at 12 h |
 
-Figures are in `results/`.
+Figures are the .png files in this repository.
 
 ## Run it
 

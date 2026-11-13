@@ -1,2 +1,7 @@
 numpy
+pandas
+scipy
+xarray
+netCDF4
+shapely>=2.0
 matplotlib
